@@ -7,7 +7,7 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/go-text/typesetting/font/opentype/tables"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
 )
 
 // This file implements the logic needed to use a cmap.

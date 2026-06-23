@@ -8,9 +8,9 @@ import (
 
 	hb "github.com/go-text/typesetting-utils/harfbuzz"
 	td "github.com/go-text/typesetting-utils/opentype"
-	ot "github.com/go-text/typesetting/font/opentype"
-	"github.com/go-text/typesetting/font/opentype/tables"
-	tu "github.com/go-text/typesetting/testutils"
+	ot "github.com/trendvidia/typesetting/font/opentype"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
+	tu "github.com/trendvidia/typesetting/testutils"
 )
 
 // wrap td.Files.ReadFile

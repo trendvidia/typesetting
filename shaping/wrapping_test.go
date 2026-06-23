@@ -10,11 +10,11 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/go-text/typesetting/di"
-	"github.com/go-text/typesetting/font"
-	"github.com/go-text/typesetting/language"
-	"github.com/go-text/typesetting/segmenter"
-	tu "github.com/go-text/typesetting/testutils"
+	"github.com/trendvidia/typesetting/di"
+	"github.com/trendvidia/typesetting/font"
+	"github.com/trendvidia/typesetting/language"
+	"github.com/trendvidia/typesetting/segmenter"
+	tu "github.com/trendvidia/typesetting/testutils"
 	"golang.org/x/image/font/gofont/goregular"
 	"golang.org/x/image/math/fixed"
 )

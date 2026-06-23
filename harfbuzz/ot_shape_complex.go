@@ -1,10 +1,10 @@
 package harfbuzz
 
 import (
-	ot "github.com/go-text/typesetting/font/opentype"
-	"github.com/go-text/typesetting/font/opentype/tables"
-	ucd "github.com/go-text/typesetting/internal/unicodedata"
-	"github.com/go-text/typesetting/language"
+	ot "github.com/trendvidia/typesetting/font/opentype"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
+	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	"github.com/trendvidia/typesetting/language"
 )
 
 type zeroWidthMarks uint8

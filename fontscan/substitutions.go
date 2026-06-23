@@ -3,7 +3,7 @@ package fontscan
 import (
 	"strings"
 
-	"github.com/go-text/typesetting/font"
+	"github.com/trendvidia/typesetting/font"
 )
 
 // this file implements the family substitution feature,

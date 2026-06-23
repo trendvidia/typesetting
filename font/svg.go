@@ -5,7 +5,7 @@ package font
 import (
 	"fmt"
 
-	"github.com/go-text/typesetting/font/opentype/tables"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
 )
 
 type svg []svgDocument

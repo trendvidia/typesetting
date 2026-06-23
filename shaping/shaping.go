@@ -3,8 +3,8 @@
 package shaping
 
 import (
-	"github.com/go-text/typesetting/di"
-	"github.com/go-text/typesetting/harfbuzz"
+	"github.com/trendvidia/typesetting/di"
+	"github.com/trendvidia/typesetting/harfbuzz"
 	"golang.org/x/image/math/fixed"
 )
 

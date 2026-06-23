@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-text/typesetting/font"
-	"github.com/go-text/typesetting/language"
+	"github.com/trendvidia/typesetting/font"
+	"github.com/trendvidia/typesetting/language"
 )
 
 func allIndices(fs fontSet) []int {

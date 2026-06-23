@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/go-text/typesetting/font"
-	ot "github.com/go-text/typesetting/font/opentype"
-	"github.com/go-text/typesetting/language"
+	"github.com/trendvidia/typesetting/font"
+	ot "github.com/trendvidia/typesetting/font/opentype"
+	"github.com/trendvidia/typesetting/language"
 )
 
 type cacheEntry struct {

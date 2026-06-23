@@ -3,8 +3,8 @@ package harfbuzz
 import (
 	"fmt"
 
-	"github.com/go-text/typesetting/font/opentype/tables"
-	ucd "github.com/go-text/typesetting/internal/unicodedata"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
+	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
 )
 
 // Position stores a position, scaled according to the `Font`

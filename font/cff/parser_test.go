@@ -9,10 +9,10 @@ import (
 	"testing"
 
 	td "github.com/go-text/typesetting-utils/opentype"
-	psinterpreter "github.com/go-text/typesetting/font/cff/interpreter"
-	ot "github.com/go-text/typesetting/font/opentype"
-	"github.com/go-text/typesetting/font/opentype/tables"
-	tu "github.com/go-text/typesetting/testutils"
+	psinterpreter "github.com/trendvidia/typesetting/font/cff/interpreter"
+	ot "github.com/trendvidia/typesetting/font/opentype"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
+	tu "github.com/trendvidia/typesetting/testutils"
 )
 
 func TestParseCFF(t *testing.T) {

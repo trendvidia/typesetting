@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-text/typesetting/font"
-	"github.com/go-text/typesetting/language"
+	"github.com/trendvidia/typesetting/font"
+	"github.com/trendvidia/typesetting/language"
 )
 
 func Test_serializeFootprints(t *testing.T) {

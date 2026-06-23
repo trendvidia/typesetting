@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	td "github.com/go-text/typesetting-utils/harfbuzz"
-	"github.com/go-text/typesetting/font"
-	"github.com/go-text/typesetting/language"
-	tu "github.com/go-text/typesetting/testutils"
+	"github.com/trendvidia/typesetting/font"
+	"github.com/trendvidia/typesetting/language"
+	tu "github.com/trendvidia/typesetting/testutils"
 )
 
 // ported from harfbuzz/perf
