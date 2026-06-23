@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-text/typesetting/di"
-	"github.com/go-text/typesetting/language"
-	"github.com/go-text/typesetting/segmenter"
+	"github.com/trendvidia/typesetting/di"
+	"github.com/trendvidia/typesetting/language"
+	"github.com/trendvidia/typesetting/segmenter"
 	"golang.org/x/image/math/fixed"
 )
 

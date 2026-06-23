@@ -1,8 +1,8 @@
 package shaping
 
 import (
-	"github.com/go-text/typesetting/font"
-	"github.com/go-text/typesetting/harfbuzz"
+	"github.com/trendvidia/typesetting/font"
+	"github.com/trendvidia/typesetting/harfbuzz"
 )
 
 // adjust the cache size of the zero value, used by default

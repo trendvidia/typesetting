@@ -11,9 +11,9 @@ import (
 	"testing"
 
 	td "github.com/go-text/typesetting-utils/opentype"
-	ot "github.com/go-text/typesetting/font/opentype"
-	"github.com/go-text/typesetting/font/opentype/tables"
-	tu "github.com/go-text/typesetting/testutils"
+	ot "github.com/trendvidia/typesetting/font/opentype"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
+	tu "github.com/trendvidia/typesetting/testutils"
 )
 
 // ported from harfbuzz/test/api/test-var-coords.c Copyright © 2019 Ebrahim Byagowi

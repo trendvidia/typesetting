@@ -3,13 +3,13 @@
 package shaping
 
 import (
-	"github.com/go-text/typesetting/bidi"
-	"github.com/go-text/typesetting/di"
-	"github.com/go-text/typesetting/font"
-	ot "github.com/go-text/typesetting/font/opentype"
-	"github.com/go-text/typesetting/harfbuzz"
-	ucd "github.com/go-text/typesetting/internal/unicodedata"
-	"github.com/go-text/typesetting/language"
+	"github.com/trendvidia/typesetting/bidi"
+	"github.com/trendvidia/typesetting/di"
+	"github.com/trendvidia/typesetting/font"
+	ot "github.com/trendvidia/typesetting/font/opentype"
+	"github.com/trendvidia/typesetting/harfbuzz"
+	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
+	"github.com/trendvidia/typesetting/language"
 	"golang.org/x/image/math/fixed"
 )
 

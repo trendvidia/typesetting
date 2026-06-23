@@ -12,11 +12,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-text/typesetting/font"
-	ot "github.com/go-text/typesetting/font/opentype"
-	"github.com/go-text/typesetting/language"
-	"github.com/go-text/typesetting/shaping"
-	tu "github.com/go-text/typesetting/testutils"
+	"github.com/trendvidia/typesetting/font"
+	ot "github.com/trendvidia/typesetting/font/opentype"
+	"github.com/trendvidia/typesetting/language"
+	"github.com/trendvidia/typesetting/shaping"
+	tu "github.com/trendvidia/typesetting/testutils"
 )
 
 func ExampleFontMap_UseSystemFonts() {
@@ -382,7 +382,7 @@ func TestDumpSystemFonts(t *testing.T) {
 	}
 	code := fmt.Sprintf(`
 	package fontscan
-	import "github.com/go-text/typesetting/font"
+	import "github.com/trendvidia/typesetting/font"
 
 	// extracted from a linux system
 	var linuxSampleFontSet = 

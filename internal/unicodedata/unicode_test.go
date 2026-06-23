@@ -3,8 +3,8 @@ package unicodedata
 import (
 	"testing"
 
-	"github.com/go-text/typesetting/language"
-	tu "github.com/go-text/typesetting/testutils"
+	"github.com/trendvidia/typesetting/language"
+	tu "github.com/trendvidia/typesetting/testutils"
 )
 
 var composeTests = []struct {

@@ -8,9 +8,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/go-text/typesetting/font"
-	"github.com/go-text/typesetting/language"
-	tu "github.com/go-text/typesetting/testutils"
+	"github.com/trendvidia/typesetting/font"
+	"github.com/trendvidia/typesetting/language"
+	tu "github.com/trendvidia/typesetting/testutils"
 )
 
 // newRuneSet builds a set containing the given runes.

@@ -6,9 +6,9 @@ import (
 	"errors"
 	"fmt"
 
-	ps "github.com/go-text/typesetting/font/cff/interpreter"
-	ot "github.com/go-text/typesetting/font/opentype"
-	"github.com/go-text/typesetting/font/opentype/tables"
+	ps "github.com/trendvidia/typesetting/font/cff/interpreter"
+	ot "github.com/trendvidia/typesetting/font/opentype"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
 )
 
 // LoadGlyph parses the glyph charstring to compute segments and path bounds.

@@ -5,7 +5,7 @@
 package bidi
 
 import (
-	ucd "github.com/go-text/typesetting/internal/unicodedata"
+	ucd "github.com/trendvidia/typesetting/internal/unicodedata"
 )
 
 // Paragraph is the main entry point of the package.

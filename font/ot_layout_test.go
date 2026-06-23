@@ -7,8 +7,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/go-text/typesetting/font/opentype/tables"
-	tu "github.com/go-text/typesetting/testutils"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
+	tu "github.com/trendvidia/typesetting/testutils"
 )
 
 func TestGetProps(t *testing.T) {

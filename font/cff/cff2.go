@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	ps "github.com/go-text/typesetting/font/cff/interpreter"
-	"github.com/go-text/typesetting/font/opentype/tables"
+	ps "github.com/trendvidia/typesetting/font/cff/interpreter"
+	"github.com/trendvidia/typesetting/font/opentype/tables"
 )
 
 //go:generate ../../../../typesetting-utils/generators/binarygen/cmd/generator . _src.go

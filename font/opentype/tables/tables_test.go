@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	td "github.com/go-text/typesetting-utils/opentype"
-	ot "github.com/go-text/typesetting/font/opentype"
-	tu "github.com/go-text/typesetting/testutils"
+	ot "github.com/trendvidia/typesetting/font/opentype"
+	tu "github.com/trendvidia/typesetting/testutils"
 )
 
 // wrap td.Files.ReadFile
